@@ -30,10 +30,10 @@ IoT 개발자 코딩테스트 준비 Repository
 ##### 🎥 코딩테스트 대비 추천 유튜브 강의
 | 강의 제목                                                                                                              | 설명                                           | 링크                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [이코테 – 코딩 테스트 출제 경향 분석 및 파이썬](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC) | 출제 경향 분석 + 파이썬 기본기 설명 <br> 📌 전반적인 개념 학습용    | 🔗 [바로가기](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC) |
-| [Do It 파이썬 코딩 테스트 (입문)](https://www.youtube.com/watch?v=m2KpGo_-sGI&list=PLFgS-xIWwNVULwx1VA5IvpSqsXScpviN-)       | 파이썬 문법 + 알고리즘 기초 <br> 📌 초보자에게 추천            | 🔗 [바로가기](https://www.youtube.com/watch?v=m2KpGo_-sGI&list=PLFgS-xIWwNVULwx1VA5IvpSqsXScpviN-) |
-| [Do It 파이썬 코딩 테스트 (백준)](https://www.youtube.com/watch?v=cJ9xdW_hqR4&list=PLlV7zJmoG4XJfK8vVL2E2NX8ej73vjNlh)       | 백준 중심의 실전 문제 풀이 <br> 📌 백준 풀이 익숙해지고 싶은 경우 추천 | 🔗 [바로가기](https://www.youtube.com/watch?v=cJ9xdW_hqR4&list=PLlV7zJmoG4XJfK8vVL2E2NX8ej73vjNlh) |
-| [프로그래머스 코딩 테스트 – 파이썬](https://www.youtube.com/watch?v=XncTU-4i1KI&list=PLFgS-xIWwNVX-zm4m6suWC9d7Ua9z7fuT)         | 프로그래머스 문제 풀이 중심 <br> 📌 기업별 코딩 테스트 실전 연습용    | 🔗 [바로가기](https://www.youtube.com/watch?v=XncTU-4i1KI&list=PLFgS-xIWwNVX-zm4m6suWC9d7Ua9z7fuT) |
+| **[이코테 – 코딩 테스트 출제 경향 분석 및 파이썬]** | 출제 경향 분석 + 파이썬 기본기 설명 <br> 📌 전반적인 개념 학습용    | 🔗 [바로가기](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC) |
+| **[Do It 파이썬 코딩 테스트 (입문)]** | 파이썬 문법 + 알고리즘 기초 <br> 📌 초보자에게 추천            | 🔗 [바로가기](https://www.youtube.com/watch?v=m2KpGo_-sGI&list=PLFgS-xIWwNVULwx1VA5IvpSqsXScpviN-) |
+| **[Do It 파이썬 코딩 테스트 (백준)]** | 백준 중심의 실전 문제 풀이 <br> 📌 백준 풀이 익숙해지고 싶은 경우 추천 | 🔗 [바로가기](https://www.youtube.com/watch?v=cJ9xdW_hqR4&list=PLlV7zJmoG4XJfK8vVL2E2NX8ej73vjNlh) |
+| **[프로그래머스 코딩 테스트 – 파이썬]** | 프로그래머스 문제 풀이 중심 <br> 📌 기업별 코딩 테스트 실전 연습용    | 🔗 [바로가기](https://www.youtube.com/watch?v=XncTU-4i1KI&list=PLFgS-xIWwNVX-zm4m6suWC9d7Ua9z7fuT) |
 
 
 ### 📚 코딩 테스트 무료 강의 & 자료 추천
@@ -50,9 +50,9 @@ IoT 개발자 코딩테스트 준비 Repository
 ### 🌐 주요 코딩 테스트 사이트
 | 플랫폼                                                                                 | 특징                                                                   | 링크                                                                               |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **[프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent&page=1)** | 📌 **카카오 등 대기업의 블라인드 테스트**에 가장 많이 사용 <br> 실전 코딩 테스트와 유사한 인터페이스 제공 <br> 프로그래머스 인증시험도 채용시 활용(CPP, PCSQL)    | [🔗 바로가기](https://school.programmers.co.kr/learn/challenges?order=recent&page=1) |
-| **[백준 (BOJ)](https://www.acmicpc.net/)**                                            | 📌 국내에서 가장 유명한 알고리즘 문제 풀이 사이트 <br> 로컬 코딩 → 제출 방식, 다양한 커뮤니티와 풀이 참고 가능 | [🔗 바로가기](https://www.acmicpc.net/)                                              |
-| **[삼성 SW Expert Academy](https://swexpertacademy.com/main/capacityTest/main.do)**   | 📌 **삼성 채용 및 SW 역량 테스트 공식 플랫폼** <br> 연습 문제 및 기출 풀이 가능                | [🔗 바로가기](https://swexpertacademy.com/main/capacityTest/main.do)                 |
+| **[프로그래머스]** | 📌 **카카오 등 대기업의 블라인드 테스트**에 가장 많이 사용 <br> 실전 코딩 테스트와 유사한 인터페이스 제공 <br> 프로그래머스 인증시험도 채용시 활용(CPP, PCSQL)    | [🔗 바로가기](https://school.programmers.co.kr/learn/challenges?order=recent&page=1) |
+| **[백준 (BOJ)]**                                            | 📌 국내에서 가장 유명한 알고리즘 문제 풀이 사이트 <br> 로컬 코딩 → 제출 방식, 다양한 커뮤니티와 풀이 참고 가능 | [🔗 바로가기](https://www.acmicpc.net/)                                              |
+| **[삼성 SW Expert Academy]**   | 📌 **삼성 채용 및 SW 역량 테스트 공식 플랫폼** <br> 연습 문제 및 기출 풀이 가능                | [🔗 바로가기](https://swexpertacademy.com/main/capacityTest/main.do)                 |
 
 
 ### 🧭 코딩테스트 준비 가이드
@@ -116,4 +116,56 @@ IoT 개발자 코딩테스트 준비 Repository
 - 힌트, 제한사항, 입출력 예시 확인하며 풀이
 
 ## 알고리즘 효율
-### 시간 복잡도!
+### ⏱️ 시간 복잡도 (Time Complexity)
+- 시간 복잡도란, **입력 크기(N)**에 따라 알고리즘의 실행 시간이 얼마나 증가하는지를 수학적으로 표현한 개념
+
+- 문제의 제한사항(예: N ≤ 100,000)을 보고 적절한 알고리즘을 선택하는 데 핵심 기준이 됨
+
+> 📌 코딩 테스트에선 정답보다 **시간 안에 푸는 것**이 훨씬 중요!
+
+### 🧮 복잡도
+
+| 구분            | 설명                           |
+| ------------- | ---------------------------- |
+| ⏰ **시간 복잡도**  | 문제를 해결하는 데 **걸리는 시간**을 측정    |
+| 💾 **공간 복잡도** | 문제를 해결하는 데 **필요한 메모리 양**을 측정 |
+
+
+### 🔍 시간 복잡도의 기준 – 항상 최악의 경우 기준 
+- 알고리즘은 상황에 따라 실행 시간이 달라질 수 있음
+
+- 하지만 코딩 테스트 및 면접에서는 항상 **최악의 경우(Worst Case)**를 기준으로 시간 복잡도를 분석함
+
+| 케이스          | 설명                                   |
+| ------------ | ------------------------------------ |
+| ✅ **최고(O)**  | 가장 빠른 실행 상황 (거의 안 씀)                 |
+| ⚖️ **보통(Θ)** | 평균적인 실행 시간                           |
+| ❌ **최악(Ω)**  | 가장 느린 상황 → **코딩 테스트에서는 이것 기준으로 판단!** |
+
+### ✅ 입력 크기와 시간 복잡도 예시
+| 입력 크기 N       | 적절한 시간 복잡도           |
+| ------------- | -------------------- |
+| N ≤ 500       | O(N³) 가능             |
+| N ≤ 1,000     | O(N²) 이하             |
+| N ≤ 10,000    | O(N log N) 이하        |
+| N ≤ 100,000   | O(N) 이하              |
+| N ≥ 1,000,000 | O(log N), O(1) 수준 필요 |
+
+### ⏱️ 시간복잡도별 최대 연산 횟수 (1초 기준)
+
+| 순번 | 시간복잡도    | 최대 연산 횟수 (1초당) | 비고                                                         |
+|------|---------------|------------------------|--------------------------------------------------------------|
+| 1    | O(log n)      | 1,000,000,000          | 1중 for문, 중간 연산을 빠지는 경우가 매우 많은 경우 (예: 369) |
+| 2    | O(n)          | 20,000,000             | 1차 반복문 사용 / 반복문 하나 사용                           |
+| 3    | O(n log n)    | 1,000,000              | 2차 반복문에서 하나가 log n 횟수로 연산                      |
+| 4    | O(n²)         | 50,000                 | 2중 반복문 (예: 버블 정렬, 선택 정렬 등)                     |
+| 5    | O(n³)         | 5,000                  | 3중 반복문 (예: 플로이드 워셜 등)                            |
+| 6    | O(2ⁿ)         | 25                     | 재귀 백트래킹 (예: 부분집합, 순열 등)                        |
+| 7    | O(n!)         | 10                     | 모든 경우의 수 탐색 (예: 순열, 외판원 문제 등)               |
+
+> ✅ 기준: 1초당 약 1억 번 연산이 가능하다고 가정
+
+#### 시간 복잡도 계산
+- 실제 별찍기는 $O(n)$. 하지만 수학적으로 계산해보면 50(n2 ) 나올 수 있음
+- 박테리아 계산도 16개를 매년 하나씩 줄어드면 16년이 걸릴 것을 예상(n)
+    - 반씩 줄면 횟수가 더 많이 주는 것을 유추할 수 있음
