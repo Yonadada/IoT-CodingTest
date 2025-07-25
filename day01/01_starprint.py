@@ -1,5 +1,4 @@
-n = int(input('최대 별 크기 입력 > '))
-
+n = int(input('최대 별크기 입력 > '))
 
 for i in range(n):
-    print('*' )
+    print('*' * (i+1))
