@@ -190,5 +190,35 @@ IoT 개발자 코딩테스트 준비 Repository
         <img src="./image/ct0003.png" width="400">
 4. **다른 사람 풀이 열람 가능 (점수 차감 없음)**
 
-### 🧪 프로그래머스 실습 #2
+#### 모의 테스트
+1. [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) 
+2. [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
 
+### 스택
+- LIFO: 맨 나중에 추가한 데이터가 가장 먼저 출력되는 구조
+- push() : 데이터 삽입. 쌓여있는 데이터 마지막에 추가
+- pop() : 데이터 추출. 쌓영있는 데이터 마지막에서 추출
+- [링크](./day02/02_스택.ipynb)
+
+--- 
+
+## 3일차
+### 🧪 프로그래머스 실습 #2
+### 깃헙 팁
+- https://github.com/hugoMGSung 주소에 com -> dev
+    - 브라우저 상에서 온라인 VS Code가 실행
+    - 로컬 VS Code와 동일하게 사용가능
+    - 처음 Ctrl + F5로 실행, CodeSpace 설정, CPU 2Core, 8Gb... 등 선택하고 코드스페이스 생성
+
+    <img src="./image/ct0004.png" width="700">
+
+### 스택
+- 몸풀기 문제, 모의 테스트
+- 제출 후 체점하기에서 print()문 제거 또는 주석처리할 것(효율성 테스트)
+- [링크](./day03/01_스택.ipynb)
+
+### 큐
+- FIFO : 맨 먼저 삽입한 데이터가 가장 먼저 출력되는 구조
+- enQueue() : 데이터 삽입
+- deQueue() : 데이터 추출
+- [링크](./day03/02_큐.ipynb)
